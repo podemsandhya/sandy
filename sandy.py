@@ -1,1 +1,2 @@
-print(" smile ")
+print( "smile ")
+print ("Cry")
